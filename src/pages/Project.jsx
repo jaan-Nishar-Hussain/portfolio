@@ -10,19 +10,19 @@ const projects = [
     title: "E-commerce MERN Project",
     description: "A full-stack e-commerce application built with MongoDB, Express, React, and Node.js (MERN). Features user registration, product management, cart, and checkout functionalities.",
     technologies: ["MongoDB", "Express", "React", "Node.js", "JWT", "Stripe"],
-    imageUrl: "/public/ss.png",
+    imageUrl: "/ss.png",
   },
   {
     title: "Food Delivery App",
     description: "A food ordering and delivery platform similar to Zomato, featuring real-time tracking, user authentication, and blockchain-based payments.",
     technologies: ["React", "Node.js", "MongoDB", "Express", "JWT", "Stripe"],
-    imageUrl: "/public/ss3.png",
+    imageUrl: "/ss3.png",
   },
   {
     title: "Portfolio Website",
     description: "A responsive and animated portfolio website showcasing my skills, projects, and experience. Built with React and Tailwind CSS.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    imageUrl: "/public/ss2.png",
+    imageUrl: "/ss2.png",
   },
 ];
 
