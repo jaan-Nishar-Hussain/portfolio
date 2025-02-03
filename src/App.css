@@ -1,0 +1,14 @@
+/* Move @import to the top */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+/* Your existing styles below */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Rest of your CSS */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
