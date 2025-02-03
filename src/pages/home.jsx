@@ -51,7 +51,7 @@ function Home() {
         </motion.h1>
         <motion.div className="mt-8 flex justify-center">
           <motion.img
-            src="/public/pngwing.com (1).png"
+            src="/pngwing.com (1).png"
             alt="Web3 Hero"
             className="w-2/3 md:w-1/3 max-w-lg h-auto rounded-lg shadow-lg"
             initial={{ opacity: 0, scale: 0.8, rotate: -10 }}
